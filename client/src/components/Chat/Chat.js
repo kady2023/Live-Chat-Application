@@ -11,7 +11,7 @@ import TextContainer from '../TextContainer/TextContainer';
 
 let socket;
 
-const ENDPOINT = 'localhost:5000';
+const ENDPOINT = 'https://live-chat-application.onrender.com/';
 
 export default function Chat() {
     const [name, setName] = useState('');
