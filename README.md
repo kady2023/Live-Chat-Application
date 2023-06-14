@@ -1,5 +1,5 @@
-# Personal-Portfolio
-> This is personal portfolio website.
+# Live-Chat-App
+> This is live chat application.
 
 ![Live-Chat](https://raw.github.com/kady2023/Live-Chat-Application/master/client/src/icons/port1.png)
 
