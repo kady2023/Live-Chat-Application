@@ -16,7 +16,7 @@ const server = http.createServer(app);
 app.use(cors());
 const io = require("socket.io")(server, {
     cors: {
-      origin: "https://clinquant-bienenstitch-4b3f07.netlify.app",
+      origin: "https://kady2023-live-chat-app.netlify.app/",
       methods: ["GET", "POST"],
       allowedHeaders: ["my-custom-header"],
       credentials: true
